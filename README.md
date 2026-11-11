@@ -1,10 +1,10 @@
-# -ITS-AI-Intelligent-Transport-System
+# ITS-AI-Intelligent-Transport-System
 AI-Based Traffic Prediction, Analytics &amp; Route Optimization (Advanced Colab Notebook)
 
-AI-Based Traffic Prediction, Analytics & Route Optimization (Advanced Colab Notebook)
-Pipeline: DATA → ANALYSE → PREDICT → SEARCH → OPTIMIZE → DECIDE → VISUALIZE
+**AI-Based Traffic Prediction, Analytics & Route Optimization (Advanced Colab Notebook)**
+**Pipeline:** DATA → ANALYSE → PREDICT → SEARCH → OPTIMIZE → DECIDE → VISUALIZE
 
-Dataset: Smart Traffic Management Dataset (Kaggle) — 2,000 rows × 12 columns (timestamp, location ID, traffic volume, average speed, vehicle-type counts, weather, temperature, humidity, accident flag, signal status).
+**Dataset:** Smart Traffic Management Dataset (Kaggle) — 2,000 rows × 12 columns (timestamp, location ID, traffic volume, average speed, vehicle-type counts, weather, temperature, humidity, accident flag, signal status).
 
 It is a data-driven traffic management system designed to help understand traffic conditions, predict congestion, estimate vehicle travel times, and identify better routes through a road network.
 
